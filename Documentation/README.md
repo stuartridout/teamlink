@@ -7,6 +7,7 @@ This document provides instructions on how to add the components of TeamLink app
 
 1. [Download the unmanaged Solution file](images/#p1)
 1. [Import the solution in Dataverse for Teams](images/#p2)
+1. [Troubleshooting](images/#p3)
 ---
 
 ## Download the managed Solution file<a name="p1"></a>
@@ -29,7 +30,7 @@ This document provides instructions on how to add the components of TeamLink app
 
    ![](images/04.jpeg)
    
-   [**Is your Team not in the list? - Follow these instructions and then come back here**](#p3)
+###   [**Is your Team not in the list? - Follow these instructions and then come back here**](#p3)
 
 1. Click the “Import” button. 
 
@@ -39,7 +40,7 @@ This document provides instructions on how to add the components of TeamLink app
 
    ![](images/06.jpeg)
 
-1. Select the components you want to import (recommended you select all) and click on Import 
+1. Select the components you want to import (recommended you deselect Users) and click on Import 
 
    ![](images/07.jpeg)
 
@@ -51,12 +52,18 @@ The import process will start in background.
 
 1. Click on the **Home** tab in the Teams Power App app.  Click the **Start now** button.
 
-   ![](images/t1.jpg)
+   ![](images/t01.jpg)
    
 1. Choose your Team.  Click **Create**
 
-   ![](images/t2.jpg)
+   ![](images/t02.jpg)
    
 1. The new environment will be provisioned in the background.  When it is completed it will open a new Canvas app.  We can just ignore that and click the **Build** tab at the top to continue.
 
-   ![](images/t3.jpg)
+   ![](images/t03.jpg)
+
+1. Click on your Team from the left hand list.  Click **Import your solution**
+
+   ![](images/04a.jpeg)
+   
+**Continue from Step 4 above**
