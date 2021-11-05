@@ -5,9 +5,9 @@ This document provides instructions on how to add the components of TeamLink app
 
 ## Contents 
 
-1. [Download the unmanaged Solution file](images/#p1)
-1. [Import the solution in Dataverse for Teams](images/#p2)
-1. [Troubleshooting](images/#p3)
+1. [Download the unmanaged Solution file](#p1)
+1. [Import the solution in Dataverse for Teams](#p2)
+1. [Troubleshooting](#p3)
 ---
 
 ## Download the managed Solution file<a name="p1"></a>
