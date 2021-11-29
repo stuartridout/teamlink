@@ -1,6 +1,6 @@
-﻿# Import TeamLink as an unmanaged solution into Dataverse for Teams environment 
+﻿# Import TeamLink as a managed solution into Dataverse for Teams environment 
 
-This document provides instructions on how to add the components of TeamLink app in a *Dataverse for Teams* environment as an unmanaged solution.  
+This document provides instructions on how to add the components of TeamLink app in a *Dataverse for Teams* environment as a managed solution.  
 
 
 ## Contents 
