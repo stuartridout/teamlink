@@ -16,7 +16,7 @@ Detailed documentation for installation can be found in the [Documents](https://
 
 **This is the easiest and quickest method to get started with this app template.** The provisioning is fully automated once the process starts and may take upto 2 - 3 minutes. You will get the option to chose which Teams team you'd like to install this application in. Refer to these [easy step-by-step instructions](https://github.com/stuartridout/teamlink/tree/main/Documentation) on how to get started with TeamLink.
 
-If this is the first Power Apps in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you had picked in the first step. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by going to the Power Apps app.
+If this is the first Power Apps in the team, a new Dataverse for Teams environment will be provisioned, the app installed, automatically shared with all members of the team and tabbed to the channel you pick. You will be able to [edit the app](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) after installation by going to the Power Apps app.
 
 Note that this provisions the 'managed' solution in the Teams environment. This means that you can take advantage of any future updates being made to the application by reinstalling the application (follow same steps as original installation).
 
