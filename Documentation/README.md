@@ -43,7 +43,7 @@ You could also check the install demo video at https://www.youtube.com/watch?v=N
    ![](images/05.jpeg)
 
 
-1. Browse to the Dataverse Solution file downloaded in *Download the unmanaged Solution file* step and click Next. 
+1. Browse to the Dataverse Solution file downloaded in *Download the managed Solution file* step and click Next. 
 
    ![](images/06.jpeg)
 
