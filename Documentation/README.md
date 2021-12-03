@@ -2,12 +2,12 @@
 
 This document provides instructions on how to add the components of TeamLink app in a *Dataverse for Teams* environment as a managed solution.  
 
-You could also check the install demo at https://www.youtube.com/watch?v=NEQ80rMY7-w 
+You could also check the install demo video at https://www.youtube.com/watch?v=NEQ80rMY7-w 
 
 
 ## Contents 
 
-1. [Download the unmanaged Solution file](#p1)
+1. [Download the managed Solution file](#p1)
 1. [Import the solution in Dataverse for Teams](#p2)
 1. [Troubleshooting](#p3)
 ---
