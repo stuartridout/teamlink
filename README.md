@@ -1,4 +1,4 @@
-### We are seeing some challenges in non-GMT/UTC timezones - we're looking at this and will update this message when patched ###
+# We are seeing some challenges in non-GMT/UTC timezones - we're looking at this and will update this message when patched
 
 ## Overview
 
