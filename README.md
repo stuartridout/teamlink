@@ -1,4 +1,4 @@
-# We are seeing some challenges in non-GMT/UTC timezones - we're looking at this and will update this message when patched
+### 7th Dec 2021 We had some challenges in non-GMT/UTC timezones that were behind UTC (Americas) - if you experienced an error we would encourage you to download the updated release.
 
 ## Overview
 
