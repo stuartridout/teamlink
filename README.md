@@ -1,5 +1,3 @@
-### 7th Dec 2021 We had some challenges in non-GMT/UTC timezones that were behind UTC (Americas) - if you experienced an error we would encourage you to download the updated release.
-
 ## Overview
 
 With the TeamLink app, you get a space in Microsoft Teams where your team (or even the whole organisation) can share their whereabouts for the coming weeks, months or further (if they're that organised!).  Whether it's working from home, one of your offices or not working e.g. vacations, not working or other planned leave, they can share this with a click of a button.
