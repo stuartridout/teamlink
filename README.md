@@ -6,7 +6,7 @@ Users can choose which team members they 'follow' with their location shared in 
 
 ![Screenshot showing overview of the TeamLink app](Documentation/images/1-TeamLinkMain.png)
 
-TeamLink is a Teams application built on the [Dataverse for Teams](https://powerapps.microsoft.com/en-us/blog/reshape-the-future-of-work-with-microsoft-dataverse-for-teams-now-generally-available/) on the Power Platform. Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application.
+TeamLink is a Teams application built on the Power Platform. Once installed, it can be [customized and extended](https://docs.microsoft.com/en-us/powerapps/teams/customize-sample-apps) by the installer of the application.
 
 ## Installing
 
